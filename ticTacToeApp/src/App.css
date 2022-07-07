@@ -1,0 +1,196 @@
+* {
+    position: absolute;
+    width: 1366px;
+    height: 768px;
+    background-color: #F3B18C;
+}
+
+
+
+h1 {
+    position: absolute;
+    width: 254px;
+    height: 65px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 65px;
+    color: #0026ED;
+    font-family: 'Finger Paint';
+    left: 555px;
+    top: 158px;
+    
+}
+
+button  {
+    width: 80px;
+    height: 80px;
+    background: #FFFFFF;
+    border: 10px solid black;
+    border-radius: 10px;
+    font-family: 'Finger Paint';
+    font-size: 64px;
+    left: 533px;
+    top: 255px;
+}
+
+
+button#two {
+    margin-left: 110px;
+}
+
+button#three {
+    margin-left: 220px;
+}
+
+button#four {
+    margin-top: 110px;
+}
+
+button#five {
+    margin-top: 110px;
+    margin-left: 110px;
+}
+
+button#six {
+    margin-left: 220px;
+    margin-top: 110px;
+}
+
+button#seven {
+    margin-top: 220px;
+}
+
+button#eight {
+    margin-left: 110px;
+    margin-top: 220px;
+
+}
+
+button#nine {
+    margin-left: 220px;
+    margin-top: 220px;
+
+}
+button#one p {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+
+
+} 
+
+button#two p {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+
+button#three p {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+button#four p {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+button#five p {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+
+button#six p{
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+button#seven p{
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+button#eight p{
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
+button#nine p{
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    font-family: 'Finger Paint';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FF0505;
+    background-color: rgba(255,255,255,0);
+    z-index: 1;
+    margin-top: -50px;
+} 
